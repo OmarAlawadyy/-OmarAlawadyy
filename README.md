@@ -1,46 +1,36 @@
 
 <div align="center">
 
- Omar Alawady 👋
+<img src="banner.png" width="100%" alt="Omar Alawady - Front-End Developer"/>
 
-### Front-End Developer 
+### Front-End Developer | MIS Student
 
-Building responsive, user-friendly web experiences with modern front-end technologies.
-
-<a href="https://github.com/OmarAlawadyy">
-  <img src="https://komarev.com/ghpvc/?username=OmarAlawadyy&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views"/>
-</a>
-
-<a href="https://linkedin.com/in/omar-ahmed">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omaralawadyy.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/OmarAlawadyy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/omar-ahmed)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 🎓 Student at the Faculty of Management Information Systems.
-- 💻 Passionate about Front-End Development and creating modern websites.
-- 🌱 Currently improving my JavaScript and Front-End skills.
-- 🚀 Interested in building responsive and accessible web applications.
-- 🎯 Looking for a Front-End Internship or Junior Developer opportunity.
+Hello! I'm **Omar Alawady**, a Front-End Developer and a Management Information Systems student.
+
+I'm passionate about creating modern, responsive, and user-friendly web experiences.
+
+- 🎓 Studying Management Information Systems.
+- 💻 Focused on Front-End Development.
+- 🌱 Always learning and improving my skills.
+- 🚀 Building projects to turn ideas into real websites.
+- 🎯 Open to Front-End Internship and Junior opportunities.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 My Tech Stack
 
-**Front-End Development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
-</p>
-
-**Tools & Technologies**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode" />
 </p>
 
 ---
@@ -49,25 +39,25 @@ Building responsive, user-friendly web experiences with modern front-end technol
 
 ### 🛒 ElectrOmar Store
 
-An online store project built with front-end technologies.
+An electronics store website built with Front-End technologies.
 
-- [Live Demo](https://omaralawadyy.github.io/electromar-store/)
-- [Source Code](https://github.com/OmarAlawadyy/electromar-store)
+- 🌐 [Live Demo](https://omaralawadyy.github.io/electromar-store/)
+- 💻 [GitHub Repository](https://github.com/OmarAlawadyy/electromar-store)
 
 ### 🌐 Personal Portfolio
 
-My personal portfolio showcasing my skills and projects.
+My personal website to showcase my skills and projects.
 
-- [Live Portfolio](https://omaralawadyy.github.io)
-- [Source Code](https://github.com/OmarAlawadyy/OmarAlawadyy.github.io)
+- 🌐 [Live Website](https://omaralawadyy.github.io)
+- 💻 [GitHub Repository](https://github.com/OmarAlawadyy/OmarAlawadyy.github.io)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=OmarAlawadyy&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=OmarAlawadyy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlawadyy&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -85,26 +75,21 @@ My personal portfolio showcasing my skills and projects.
 
 ---
 
-## 📫 Connect With Me
+## 📬 Let's Connect
 
-<p>
+<p align="left">
   <a href="mailto:omarahmedalawady@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/omar-ahmed">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/OmarAlawadyy">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
----
-
 <div align="center">
 
-### 💜 Thanks for visiting my profile!
+### 💜 Dream. Code. Build. Grow.
 
-*Always learning, always building.*
+*Thanks for visiting my GitHub profile!*
 
 </div>
