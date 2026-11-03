@@ -1,41 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="138" viewBox="0 0 800 138" role="img" aria-labelledby="t">
-  <title id="t">Hello world. I'm Omar Alawady, Front-End Developer.</title>
-  <defs>
-    <clipPath id="c1"><rect class="clip1" x="200" y="0" width="0" height="138"/></clipPath>
-    <clipPath id="c2"><rect class="clip2" x="170" y="0" width="0" height="138"/></clipPath>
-  </defs>
-  <style>
-    text { font-family: "Courier New", ui-monospace, Menlo, Consolas, monospace; font-weight: 700; }
-    .scene1 { opacity: 0; animation: s1 9s linear infinite; }
-    .scene2 { opacity: 0; animation: s2 9s linear infinite; }
-    .clip1 { animation: type1 9s infinite; }
-    .clip2 { animation: type2 9s infinite; }
-    .sub { opacity: 0; animation: sub 9s linear infinite; }
-    .slash { stroke: #ffc93c; stroke-width: 3; stroke-linecap: round; }
-    @keyframes s1 { 0%,2% {opacity:0} 4%,34% {opacity:1} 38%,100% {opacity:0} }
-    @keyframes s2 { 0%,40% {opacity:0} 43%,94% {opacity:1} 98%,100% {opacity:0} }
-    @keyframes type1 { 0%,4% {width:0; animation-timing-function:steps(14,end)} 22%,100% {width:400} }
-    @keyframes type2 { 0%,43% {width:0; animation-timing-function:steps(16,end)} 62%,100% {width:460} }
-    @keyframes sub { 0%,64% {opacity:0} 70%,94% {opacity:1} 98%,100% {opacity:0} }
-    @media (prefers-reduced-motion: reduce) {
-      .scene1 { display: none; }
-      .scene2, .sub { animation: none; opacity: 1; }
-      .clip2 { animation: none; width: 460px; }
-    }
-  </style>
-
-  <rect width="800" height="138" rx="12" fill="#0f1526"/>
-  <line class="slash" x1="10" y1="42" x2="42" y2="10"/>
-  <line class="slash" x1="758" y1="128" x2="790" y2="96"/>
-
-  <g class="scene1" clip-path="url(#c1)">
-    <text x="215" y="82" font-size="44" fill="#eef1fa" textLength="370" lengthAdjust="spacingAndGlyphs">Hello <tspan fill="#ffc93c">&lt;world/&gt;</tspan></text>
-  </g>
-
-  <g class="scene2">
-    <g clip-path="url(#c2)">
-      <text x="189" y="70" font-size="44" fill="#eef1fa" textLength="422" lengthAdjust="spacingAndGlyphs">I'm <tspan fill="#8aa2ff">Omar Alawady</tspan></text>
-    </g>
-    <text class="sub" x="165" y="106" font-size="18" fill="#a3adc7" textLength="470" lengthAdjust="spacingAndGlyphs">Front-End Developer | HTML · CSS · JavaScript</text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="140" viewBox="0 0 800 140" role="img" aria-label="Hello world - I'm Omar Alawady, Front-End Developer">
+<title>Omar Alawady - Front-End Developer</title>
+<style>
+.t{font-family:'Courier New',Consolas,Menlo,monospace;font-weight:700;font-size:44px;opacity:0;animation-duration:14s;animation-iteration-count:infinite;animation-timing-function:linear}
+.white{fill:#f1f3fb}.yellow{fill:#fbbf24}.blue{fill:#7b93f5}
+.sub{font-family:'Courier New',Consolas,Menlo,monospace;font-weight:700;font-size:15px;fill:#9aa4bf;opacity:0;animation:fadeSub 14s infinite}
+.gA{animation:fadeA 14s infinite}
+.gB{animation:fadeB 14s infinite}
+@keyframes fadeA{0%,43%{opacity:1}49%,100%{opacity:0}}
+@keyframes fadeB{0%,51%{opacity:0}52%,95%{opacity:1}99%,100%{opacity:0}}
+@keyframes fadeSub{0%,72%{opacity:0}77%,100%{opacity:1}}
+@keyframes k0{0%,2.00%{opacity:0}2.01%,100%{opacity:1}}
+@keyframes k1{0%,3.20%{opacity:0}3.21%,100%{opacity:1}}
+@keyframes k2{0%,4.40%{opacity:0}4.41%,100%{opacity:1}}
+@keyframes k3{0%,5.60%{opacity:0}5.61%,100%{opacity:1}}
+@keyframes k4{0%,6.80%{opacity:0}6.81%,100%{opacity:1}}
+@keyframes k6{0%,16.00%{opacity:0}16.01%,100%{opacity:1}}
+@keyframes k7{0%,17.00%{opacity:0}17.01%,100%{opacity:1}}
+@keyframes k8{0%,18.00%{opacity:0}18.01%,100%{opacity:1}}
+@keyframes k9{0%,19.00%{opacity:0}19.01%,100%{opacity:1}}
+@keyframes k10{0%,20.00%{opacity:0}20.01%,100%{opacity:1}}
+@keyframes k11{0%,21.00%{opacity:0}21.01%,100%{opacity:1}}
+@keyframes k12{0%,22.00%{opacity:0}22.01%,100%{opacity:1}}
+@keyframes k13{0%,23.00%{opacity:0}23.01%,100%{opacity:1}}
+@keyframes k14{0%,52.00%{opacity:0}52.01%,100%{opacity:1}}
+@keyframes k15{0%,53.20%{opacity:0}53.21%,100%{opacity:1}}
+@keyframes k16{0%,54.40%{opacity:0}54.41%,100%{opacity:1}}
+@keyframes k18{0%,56.80%{opacity:0}56.81%,100%{opacity:1}}
+@keyframes k19{0%,58.00%{opacity:0}58.01%,100%{opacity:1}}
+@keyframes k20{0%,59.20%{opacity:0}59.21%,100%{opacity:1}}
+@keyframes k21{0%,60.40%{opacity:0}60.41%,100%{opacity:1}}
+@keyframes k23{0%,62.80%{opacity:0}62.81%,100%{opacity:1}}
+@keyframes k24{0%,64.00%{opacity:0}64.01%,100%{opacity:1}}
+@keyframes k25{0%,65.20%{opacity:0}65.21%,100%{opacity:1}}
+@keyframes k26{0%,66.40%{opacity:0}66.41%,100%{opacity:1}}
+@keyframes k27{0%,67.60%{opacity:0}67.61%,100%{opacity:1}}
+@keyframes k28{0%,68.80%{opacity:0}68.81%,100%{opacity:1}}
+@keyframes k29{0%,70.00%{opacity:0}70.01%,100%{opacity:1}}
+</style>
+<rect width="800" height="140" rx="16" fill="#0d1224"/>
+<line x1="10" y1="40" x2="36" y2="14" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/>
+<line x1="764" y1="126" x2="790" y2="100" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/>
+<g class="gA">
+<text class="t white" x="215.2" y="88" style="animation-name:k0">H</text>
+<text class="t white" x="241.6" y="88" style="animation-name:k1">e</text>
+<text class="t white" x="268.0" y="88" style="animation-name:k2">l</text>
+<text class="t white" x="294.4" y="88" style="animation-name:k3">l</text>
+<text class="t white" x="320.8" y="88" style="animation-name:k4">o</text>
+<text class="t yellow" x="373.6" y="88" style="animation-name:k6">&lt;</text>
+<text class="t yellow" x="400.0" y="88" style="animation-name:k7">w</text>
+<text class="t yellow" x="426.4" y="88" style="animation-name:k8">o</text>
+<text class="t yellow"
