@@ -34,9 +34,9 @@ const omar = {
 ```
 
 - 🌱 I'm learning front-end development by building real projects.
-- 🎓 Third-year Information Systems student at the Higher Institute of Management, El Mahalla El Kubra.
+- 🎓 🎓 Student at the Faculty of Management Information Systems.
 - 💼 Looking for an internship or junior front-end role.
-- 📫 The fastest way to reach me is [email](mailto:omarahmedalawady@gmail.com).
+- 📫 The fastest way to reach me is [email](mailto:omarahmedalawadygmail.com).
 
 ---
 
