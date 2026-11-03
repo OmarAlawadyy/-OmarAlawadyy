@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Hello world. I'm Omar Alawady, Front-End Developer." width="100%">
+<img src="banner.png" alt="Hello world. I'm Omar Alawady, Front-End Developer." width="100%">
 
 ![Profile views](https://komarev.com/ghpvc/?username=OmarAlawadyy&style=flat&color=2f5bff&label=PROFILE+VIEWS)
 
