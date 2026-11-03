@@ -1,65 +1,110 @@
+
 <div align="center">
 
-<img src="banner.png" alt="Hello world. I'm Omar Alawady, Front-End Developer." width="100%">
+ Omar Alawady 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=OmarAlawadyy&style=flat&color=2f5bff&label=PROFILE+VIEWS)
+### Front-End Developer 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:omarahmedalawady@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://linkedin.com/in/omar-ahmed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2F5BFF?style=flat)](https://omaralawadyy.github.io)
+Building responsive, user-friendly web experiences with modern front-end technologies.
+
+<a href="https://github.com/OmarAlawadyy">
+  <img src="https://komarev.com/ghpvc/?username=OmarAlawadyy&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views"/>
+</a>
+
+<a href="https://linkedin.com/in/omar-ahmed">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
+</a>
 
 </div>
 
-<hr>
+---
 
-![tools](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+## 👨‍💻 About Me
 
-```js
-// tools I use, organized
-
-const omar = {
-  role: "Front-End Developer",
-  languages: ["HTML5", "CSS3", "JavaScript"],
-  styling: ["Tailwind CSS"],
-  tools: ["Git", "GitHub"],
-  spoken: ["Arabic (native)", "English (fluent)", "Italian (intermediate)"],
-  lookingFor: "Front-end internship or junior role",
-};
-```
-
-- 🌱 I'm learning front-end development by building real projects.
-- 🎓 🎓 Student at the Faculty of Management Information Systems.
-- 💼 Looking for an internship or junior front-end role.
-- 📫 The fastest way to reach me is [email](mailto:omarahmedalawadygmail.com).
+- 🎓 Student at the Faculty of Management Information Systems.
+- 💻 Passionate about Front-End Development and creating modern websites.
+- 🌱 Currently improving my JavaScript and Front-End skills.
+- 🚀 Interested in building responsive and accessible web applications.
+- 🎯 Looking for a Front-End Internship or Junior Developer opportunity.
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack
 
-### 🛒 [ElectrOmar: Electronics Store](https://github.com/OmarAlawadyy/electromar-store)
-A responsive online store front-end with a working shopping cart saved in `localStorage`, category filters, product search, a laptop comparison table and a mobile menu.
-**Built with:** HTML5, Tailwind CSS, JavaScript · [Live demo](https://omaralawadyy.github.io/electromar-store/)
+**Front-End Development**
 
-### 🌐 [Personal Portfolio](https://github.com/OmarAlawadyy/OmarAlawadyy.github.io)
-My portfolio site, with a live CSS playground in the hero. It adapts to light and dark mode and to any screen size.
-**Built with:** HTML5, CSS3, JavaScript · [Live site](https://omaralawadyy.github.io)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+</p>
+
+**Tools & Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 ElectrOmar Store
+
+An online store project built with front-end technologies.
+
+- [Live Demo](https://omaralawadyy.github.io/electromar-store/)
+- [Source Code](https://github.com/OmarAlawadyy/electromar-store)
+
+### 🌐 Personal Portfolio
+
+My personal portfolio showcasing my skills and projects.
+
+- [Live Portfolio](https://omaralawadyy.github.io)
+- [Source Code](https://github.com/OmarAlawadyy/OmarAlawadyy.github.io)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=OmarAlawadyy&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlawadyy&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=OmarAlawadyy&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌍 Languages
+
+- 🇪🇬 Arabic — Native
+- 🇬🇧 English — Fluent
+- 🇮🇹 Italian — Intermediate
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="mailto:omarahmedalawady@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/omar-ahmed">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/OmarAlawadyy">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-**Code cycle**<br>
+### 💜 Thanks for visiting my profile!
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+*Always learning, always building.*
 
 </div>
